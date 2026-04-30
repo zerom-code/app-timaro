@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325924082125",
+    "project_id": "shawarma-timaro",
+    "storage_bucket": "shawarma-timaro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325924082125:android:a53980fd97fecd98943484",
+        "android_client_info": {
+          "package_name": "com.shawarma.eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325924082125-11cq9l1t8k8dd1r97rt92n53lttu2997.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shawarma.eats",
+            "certificate_hash": "3baeae2e1f66c1c6f337acf384eb6f3734f5fb75"
+          }
+        },
+        {
+          "client_id": "325924082125-4b6aln0skmnf60eog6ap2ouee5q45n6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDacPGcDpA2KeKU0un7KXm0Dns9f-ZKhtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325924082125-4b6aln0skmnf60eog6ap2ouee5q45n6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

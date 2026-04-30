@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Shawarma TiMaRo</string>
+    <string name="title_activity_main">Shawarma TiMaRo</string>
+    <string name="package_name">com.shawarma.eats</string>
+    <string name="custom_url_scheme">com.shawarma.eats</string>
+</resources>
